@@ -1,7 +1,92 @@
 {
-  "posts": [
-    { "id": 1, "title": "Hello World" },
-    { "id": 2, "title": "JSON Server is awesome" }
-  ],
-  "comments": [{ "id": 1, "body": "Nice post!", "postId": 1 }]
+  "cubes": [
+    {
+      "id": "4976604523fe8",
+      "car": {
+        "number": "",
+        "letters": "",
+        "height": "",
+        "width": "",
+        "length": ""
+      },
+      "trailer": {
+        "number": "",
+        "letters": "",
+        "height": "",
+        "width": "",
+        "length": ""
+      },
+      "cube": 0,
+      "date": "الثلاثاء ٢٢ أكتوبر ٢٠٢٤ ١٩:١٥",
+      "image_url": "",
+      "eng": "",
+      "about": "لا يوجد"
+    },
+    {
+      "id": "89140c7679081",
+      "car": {
+        "number": "",
+        "letters": "",
+        "height": "",
+        "width": "",
+        "length": ""
+      },
+      "trailer": {
+        "number": "",
+        "letters": "",
+        "height": "",
+        "width": "",
+        "length": ""
+      },
+      "cube": 0,
+      "date": "الجمعة ٢٥ أكتوبر ٢٠٢٤ ٠٤:١٤",
+      "image_url": "",
+      "eng": "",
+      "about": "لا يوجد"
+    },
+    {
+      "id": "d5a67f52551b4",
+      "car": {
+        "number": "",
+        "letters": "",
+        "height": "",
+        "width": "",
+        "length": ""
+      },
+      "trailer": {
+        "number": "",
+        "letters": "",
+        "height": "",
+        "width": "",
+        "length": ""
+      },
+      "cube": 0,
+      "date": "الجمعة ٢٥ أكتوبر ٢٠٢٤ ٠٤:١٥",
+      "image_url": "",
+      "eng": "",
+      "about": "لا يوجد"
+    },
+    {
+      "id": "d6db4914d228b",
+      "car": {
+        "number": "",
+        "letters": "",
+        "height": "",
+        "width": "",
+        "length": ""
+      },
+      "trailer": {
+        "number": "",
+        "letters": "",
+        "height": "",
+        "width": "",
+        "length": ""
+      },
+      "cube": 0,
+      "date": "الجمعة ٢٥ أكتوبر ٢٠٢٤ ٠٤:١٥",
+      "image_url": "",
+      "eng": "",
+      "about": "لا يوجد"
+    }
+  ]
 }
